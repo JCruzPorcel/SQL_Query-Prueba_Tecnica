@@ -1,0 +1,3 @@
+SELECT * 
+FROM Articulos
+WHERE Precio BETWEEN 60 AND 550;
